@@ -1,8 +1,7 @@
 {
-  "private": true,
   "name": "communicate-js",
   "version": "1.0.0",
-  "description": "Communication",
+  "description": "communicate",
   "homepage": "",
   "repository": "galleon-one/communicate-js",
   "author": "Ian Wijma",

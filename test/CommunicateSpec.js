@@ -7,6 +7,7 @@
  * LICENSE.txt file in the root directory of this source tree.
  */
 
-.footer {
+import { expect } from 'chai';
+import Communicate from '../src/Communicate';
 
-}
+// TODO: Write tests
